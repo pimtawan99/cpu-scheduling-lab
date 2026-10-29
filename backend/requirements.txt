@@ -1,0 +1,10 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+python-dotenv>=1.0.1
+pydantic>=2.6.4
+motor==3.7.1
+pymongo==4.18.2
+tzdata>=2024.2
+httpx>=0.27.0
+# Optional — only needed for the AI Tutor (see note below)
+# emergentintegrations==0.2.2
